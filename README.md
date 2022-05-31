@@ -10,7 +10,17 @@
 - Mark down
 
 ## Getting Started
+**Go to repository on[git@github.com:Brudaman/Hello_Microverse.git]**
+**Fork the repository to your own gthun.**
+**Follow the following steps to clone the repository**
+-Click on code,
+-Copy the code, 
+-Copy the SSH key on the page,
+-Then open git bash
+-Run the command git clone "the copied SSH link" 
+-Then cd into the folder and you will find the file locally 
 
+To get a local copy up and running these simple example steps.
 **clone this git repository.**
 
 
